@@ -1,4 +1,4 @@
-﻿Console.WriteLine("1. Угадай число\n2. Таблица умножения\n3. Вывод делителей числа");
+﻿Console.WriteLine("1. Угадай число\n2. Таблица умножения\n3. Вывод делителей числа\n4. Выход из меню");
 int select = Convert.ToInt16(Console.ReadLine());
 switch (select)
 {
